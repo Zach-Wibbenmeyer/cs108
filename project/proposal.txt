@@ -1,0 +1,8 @@
+Project Proposal
+May 1, 2015
+Zach Wibbenmeyer (zdw3)
+
+
+For my final project, I am planning to construct a program that will simulate the game Yahtzee!
+I will also most likely build a simple GUI for the user to utilize for more 
+interactive gameplay. 

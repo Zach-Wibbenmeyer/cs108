@@ -1,0 +1,28 @@
+forward 50
+right 90
+forward 100
+color red
+left 90
+forward 200
+goto -500 200
+color green
+forward 50
+point 20 200 -250
+left 90
+color purple
+forward 200
+penup
+goto -250 -250
+pendown
+color pink
+forward 100
+point 12 -150 300
+color blue
+right 75
+forward 150
+penup
+goto 100 -150
+pendown
+color black
+left 105
+forward 100

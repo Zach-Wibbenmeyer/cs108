@@ -1,0 +1,5 @@
+Zach Wibbenmeyer
+I am taking this class to get a better overview of the Python programming language.
+I have chosen to become a computer science major because I was no longer interested
+in engineering.  I actually liked programming in CS 104, so I am trying out computer
+science and seeing where it takes me.
